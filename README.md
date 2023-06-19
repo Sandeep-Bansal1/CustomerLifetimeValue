@@ -17,7 +17,7 @@ Assignment Submitted: December 2020
 </pre></b>
 ---
 ## Buisness Objective </b> 
-- Using Logistic Regression can we pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk?
+- Using Linear Regression can we pinpoint the lifetime value of a customer? 
 ## Project Overview
 - <b>Data</b> The dataset is publically available on the Kaggle website, and it is from an ongoing ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes  
   - The raw dataset can be found on the Kaggle website, [here](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset). 
