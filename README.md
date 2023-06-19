@@ -2,8 +2,8 @@
 
 
 
-# <div align="center"> Predict whether patients have risk of future Coronary Heart disease
-![alt text](https://github.com/Sandeep-Bansal1/heart_disease/blob/main/heart%20cover%20picture.png?raw=true) <pre>
+# <div align="center"> 
+![alt text](https://github.com/Sandeep-Bansal1/CustomerLifetimeValue/blob/main/Pictures/Screen%20Shot%202023-06-19%20at%204.28.25%20AM.png) <pre>
 Contrubuter  : Sandeep Bansal
 </pre>
 <pre>
